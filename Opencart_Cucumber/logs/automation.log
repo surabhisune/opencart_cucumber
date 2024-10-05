@@ -1,0 +1,152 @@
+2024-10-04 07:18:36 INFO  BaseClass:27 - started 
+2024-10-04 07:18:41 INFO  BaseClass:26 - Goto my account-->Click on Login.. 
+2024-10-04 07:18:42 INFO  BaseClass:36 - Entering email and password.. 
+2024-10-04 07:18:43 INFO  BaseClass:46 - clicked on login button...
+2024-10-04 07:56:48 INFO  BaseClass:27 - started 
+2024-10-04 07:56:54 INFO  BaseClass:26 - Goto my account-->Click on Login.. 
+2024-10-04 07:56:55 INFO  BaseClass:36 - Entering email and password.. 
+2024-10-04 07:56:56 INFO  BaseClass:46 - clicked on login button...
+2024-10-04 09:13:47 INFO  BaseClass:26 - Goto my account-->Click on Login.. 
+2024-10-04 09:13:51 INFO  BaseClass:26 - Goto my account-->Click on Login.. 
+2024-10-04 09:17:58 INFO  BaseClass:26 - Goto my account-->Click on Login.. 
+2024-10-04 09:18:03 INFO  BaseClass:26 - Goto my account-->Click on Login.. 
+2024-10-04 09:19:05 INFO  BaseClass:26 - Goto my account-->Click on Login.. 
+2024-10-04 09:19:09 INFO  BaseClass:26 - Goto my account-->Click on Login.. 
+2024-10-04 09:19:49 INFO  BaseClass:26 - Goto my account-->Click on Login.. 
+2024-10-04 09:19:49 INFO  BaseClass:36 - Entering email and password.. 
+2024-10-04 09:19:50 INFO  BaseClass:46 - clicked on login button...
+2024-10-04 09:19:54 INFO  BaseClass:26 - Goto my account-->Click on Login.. 
+2024-10-04 09:19:55 INFO  BaseClass:36 - Entering email and password.. 
+2024-10-04 09:19:56 INFO  BaseClass:46 - clicked on login button...
+2024-10-04 10:05:15 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:05:16 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-04 10:05:16 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-04 10:05:16 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:05:16 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-04 10:05:25 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:05:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-04 10:05:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-04 10:05:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:05:25 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-04 10:05:31 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:05:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-04 10:05:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-04 10:05:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:05:32 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-04 10:05:38 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:05:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-04 10:05:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-04 10:05:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:05:39 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-04 10:05:54 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:05:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-04 10:05:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-04 10:05:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:05:54 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-04 10:14:47 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:14:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:14:53 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:14:53 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:14:58 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:14:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:15:02 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:15:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:15:09 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:15:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:16:37 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:16:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:16:42 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:16:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:16:47 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:16:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:16:52 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:16:53 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:18:22 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:18:22 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-04 10:18:22 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-04 10:18:22 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:18:23 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-04 10:18:28 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:18:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-04 10:18:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-04 10:18:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:18:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-04 10:18:36 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:18:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-04 10:18:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-04 10:18:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:18:36 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-04 10:18:42 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:18:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-04 10:18:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-04 10:18:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:18:43 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-04 10:18:59 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:19:00 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-04 10:19:00 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-04 10:19:00 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:19:00 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-04 10:24:12 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:24:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:24:17 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:24:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:24:21 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:24:22 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:24:26 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:24:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:24:31 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:24:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:25:50 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:25:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-04 10:25:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-04 10:25:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:25:52 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-04 10:25:58 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:25:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-04 10:25:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-04 10:25:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:25:59 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-04 10:26:14 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:26:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-04 10:26:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-04 10:26:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:26:14 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-04 10:26:29 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:26:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-04 10:26:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-04 10:26:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:26:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-04 10:26:45 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:26:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-04 10:26:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-04 10:26:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-10-04 10:26:46 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-04 10:40:06 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:40:07 INFO  BaseClass:41 - Entering email and password.. 
+2024-10-04 10:40:07 INFO  BaseClass:51 - clicked on login button...
+2024-10-04 10:51:10 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:51:11 INFO  BaseClass:41 - Entering email and password.. 
+2024-10-04 10:51:12 INFO  BaseClass:51 - clicked on login button...
+2024-10-04 10:53:06 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 10:53:06 INFO  BaseClass:41 - Entering email and password.. 
+2024-10-04 10:53:08 INFO  BaseClass:51 - clicked on login button...
+2024-10-04 11:00:29 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 11:00:30 INFO  BaseClass:41 - Entering email and password.. 
+2024-10-04 11:00:31 INFO  BaseClass:51 - clicked on login button...
+2024-10-04 11:00:35 INFO  BaseClass:27 - started 
+2024-10-04 13:17:10 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 13:17:11 INFO  BaseClass:41 - Entering email and password.. 
+2024-10-04 13:17:12 INFO  BaseClass:51 - clicked on login button...
+2024-10-04 13:17:18 INFO  BaseClass:27 - started 
+2024-10-04 13:29:12 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 13:29:13 INFO  BaseClass:41 - Entering email and password.. 
+2024-10-04 13:29:14 INFO  BaseClass:51 - clicked on login button...
+2024-10-04 13:29:19 INFO  BaseClass:27 - started 
+2024-10-04 15:13:12 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 15:13:13 INFO  BaseClass:41 - Entering email and password.. 
+2024-10-04 15:13:14 INFO  BaseClass:51 - clicked on login button...
+2024-10-04 15:13:18 INFO  BaseClass:27 - started 
+2024-10-04 15:14:11 INFO  BaseClass:31 - Goto my account-->Click on Login.. 
+2024-10-04 15:14:12 INFO  BaseClass:41 - Entering email and password.. 
+2024-10-04 15:14:13 INFO  BaseClass:51 - clicked on login button...
+2024-10-04 15:14:17 INFO  BaseClass:27 - started 
